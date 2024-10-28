@@ -1,0 +1,143 @@
+[{
+  "username": "anonymous",
+  "dateTime": "2022-11-01T22:16:39.097066300",
+  "products": [
+    {
+      "code": 16,
+      "amount": 2,
+      "price": 5.0,
+      "name": "Skittles",
+      "category": "CANDIES"
+    },
+    {
+      "code": 15,
+      "amount": 1,
+      "price": 6.0,
+      "name": "Sour Patch",
+      "category": "CANDIES"
+    }
+  ],
+  "amountPaid": 16.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "anonymous",
+  "dateTime": "2022-11-01T22:17:22.935082500",
+  "products": [
+    {
+      "code": 0,
+      "amount": 1,
+      "price": 5.5,
+      "name": "Mineral Water",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "isCancelled": true,
+  "cancellationReason": "user cancelled"
+},{
+  "username": "anonymous",
+  "dateTime": "2022-11-01T22:21:04.887503600",
+  "products": [
+    {
+      "code": 14,
+      "amount": 1,
+      "price": 4.0,
+      "name": "Mentos",
+      "category": "CANDIES"
+    }
+  ],
+  "amountPaid": 4.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "anonymous",
+  "dateTime": "2022-11-01T22:35:04.711431200",
+  "products": [
+    {
+      "code": 0,
+      "amount": 1,
+      "price": 5.5,
+      "name": "Mineral Water",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 50.0,
+  "payment": "CASH",
+  "isCancelled": false
+},{
+  "username": "james",
+  "dateTime": "2022-11-01T22:49:54.072218400",
+  "products": [
+    {
+      "code": 14,
+      "amount": 2,
+      "price": 4.0,
+      "name": "Mentos",
+      "category": "CANDIES"
+    }
+  ],
+  "amountPaid": 8.0,
+  "payment": "CASH",
+  "isCancelled": false
+},{
+  "username": "james",
+  "dateTime": "2022-11-01T22:51:48.934604",
+  "products": [
+    {
+      "code": 14,
+      "amount": 1,
+      "price": 4.0,
+      "name": "Mentos",
+      "category": "CANDIES"
+    }
+  ],
+  "amountPaid": 0.0,
+  "isCancelled": true,
+  "cancellationReason": "user cancelled"
+},{
+  "username": "anonymous",
+  "dateTime": "2022-11-01T23:18:45.169255700",
+  "products": [
+    {
+      "code": 0,
+      "amount": 1,
+      "price": 5.5,
+      "name": "Mineral Water",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 5.5,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "anonymous",
+  "dateTime": "2022-11-01T23:19:24.633896400",
+  "products": [
+    {
+      "code": 0,
+      "amount": 1,
+      "price": 5.5,
+      "name": "Mineral Water",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 50.0,
+  "payment": "CASH",
+  "isCancelled": false
+},{
+  "username": "anonymous",
+  "dateTime": "2022-11-01T23:20:52.270167200",
+  "products": [
+    {
+      "code": 0,
+      "amount": 1,
+      "price": 5.5,
+      "name": "Mineral Water",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 50.0,
+  "payment": "CASH",
+  "isCancelled": false
+}]

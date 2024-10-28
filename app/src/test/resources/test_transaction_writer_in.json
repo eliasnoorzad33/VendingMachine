@@ -1,0 +1,38 @@
+[{
+  "username": "anonymous",
+  "dateTime": "2022-10-25T21:44:10.210494",
+  "products": [
+    {
+      "code": 0,
+      "amount": 5,
+      "price": 13.3,
+      "name": "Mountain Dew",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 13.3,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "anonymous",
+  "dateTime": "2022-10-26T10:16:59.400576",
+  "products": [
+    {
+      "code": 0,
+      "amount": 4,
+      "price": 13.3,
+      "name": "Mountain Dew",
+      "category": "DRINKS"
+    },
+    {
+      "code": 10,
+      "amount": 1,
+      "price": 5.0,
+      "name": "Dairy Milk",
+      "category": "CHOCOLATES"
+    }
+  ],
+  "amountPaid": 18.3,
+  "payment": "CARD",
+  "isCancelled": false
+}]

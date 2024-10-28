@@ -1,0 +1,61 @@
+username,datetime,products,paid,payment type
+username,2022-10-25T16:29:42.85784,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-25T16:30:38.977845,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-25T16:37:03.068841,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-25T16:44:36.89097,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-25T20:10:12.12991,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-25T20:46:30.182497,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-25T20:48:11.133376,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-25T20:48:11.588196,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T17:43:53.456616,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T17:49:29.81213,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T18:15:01.698918,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T18:18:32.327532,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T18:26:01.118333,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T18:27:59.751955,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T18:29:04.151648,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T18:45:49.282852,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T18:55:45.645216,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T19:12:07.995007,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T19:29:00.92594,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T19:30:49.617123,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T19:31:48.879647,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-27T19:32:31.209371,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-29T17:57:31.107222,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-29T18:00:07.508181,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-29T19:01:54.661584,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-29T19:10:32.416956,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-31T16:09:57.707532,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-31T16:10:19.445564,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-31T16:11:30.773908,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+username,2022-10-31T16:13:41.517416,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD

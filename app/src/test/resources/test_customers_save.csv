@@ -1,0 +1,7 @@
+username,password,role
+adam,dog,SELLER
+brian,echidna,CUSTOMER
+charlie,frog,OWNER
+john,ASafePassword,CUSTOMER
+tom,cashierpw,CASHIER
+dave,ownerpw,OWNER

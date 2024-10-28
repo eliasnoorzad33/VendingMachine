@@ -1,0 +1,106 @@
+[{
+  "username": "anonymous",
+  "dateTime": "2022-10-25T15:28:45.637343",
+  "products": [
+    {
+      "code": 0,
+      "amount": 9,
+      "price": 13.3,
+      "name": "Mountain Dew",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 13.3,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "anonymous",
+  "dateTime": "2022-10-25T15:32:19.220829",
+  "products": [
+    {
+      "code": 8,
+      "amount": 10,
+      "price": 100.0,
+      "name": "Smiths",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 100.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "donny",
+  "dateTime": "2022-10-25T15:34:54.264782",
+  "products": [
+    {
+      "code": 12,
+      "amount": 4,
+      "price": 6.0,
+      "name": "Snakes",
+      "category": "CANDIES"
+    }
+  ],
+  "amountPaid": 6.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "donny",
+  "dateTime": "2022-10-25T15:35:09.983991",
+  "products": [
+    {
+      "code": 10,
+      "amount": 1,
+      "price": 5.0,
+      "name": "Dairy Milk",
+      "category": "CHOCOLATES"
+    }
+  ],
+  "amountPaid": 5.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "donny",
+  "dateTime": "2022-10-25T15:35:22.329064",
+  "products": [
+    {
+      "code": 0,
+      "amount": 9,
+      "price": 13.3,
+      "name": "Mountain Dew",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 13.3,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "johnny",
+  "dateTime": "2022-10-25T15:36:26.736351",
+  "products": [
+    {
+      "code": 12,
+      "amount": 4,
+      "price": 6.0,
+      "name": "Snakes",
+      "category": "CANDIES"
+    }
+  ],
+  "amountPaid": 6.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "anonymous",
+  "dateTime": "2022-10-25T16:35:39.173369",
+  "products": [
+    {
+      "code": 2,
+      "amount": 0,
+      "price": 1.2,
+      "name": "Pepsi",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 1.2,
+  "payment": "CARD",
+  "isCancelled": false
+}]

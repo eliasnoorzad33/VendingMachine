@@ -1,0 +1,17 @@
+code,amount,price,name,category
+0,7,5.5,Mineral Water,DRINKS
+1,7,4.0,Sprite,DRINKS
+2,7,4.0,Coca cola,DRINKS
+3,7,4.0,Pepsi,DRINKS
+4,7,4.5,Juice,DRINKS
+5,7,3.5,Smiths,CHIPS
+6,7,5.0,Pringles,CHIPS
+7,7,4.0,Kettle,CHIPS
+9,7,3.5,Thins,CHIPS
+10,7,2.0,Mars,CHOCOLATES
+11,7,2.5,M&M,CHOCOLATES
+12,7,2.0,Bounty,CHOCOLATES
+13,7,3.0,Snickers,CHOCOLATES
+14,7,4.0,Mentos,CANDIES
+15,7,6.0,Sour Patch,CANDIES
+16,7,5.0,Skittles,CANDIES

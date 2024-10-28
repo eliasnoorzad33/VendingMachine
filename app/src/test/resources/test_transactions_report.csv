@@ -1,0 +1,5 @@
+username,datetime,products,paid,payment type
+username,2022-11-25T12:30:00,"ID:1002, Amount:2, Price:$3.5, Item:Pringles, Category:Chips
+",0.0,CARD
+anotherusername,2022-11-25T12:30:00,"ID:1005, Amount:12, Price:$7.0, Item:Coke, Category:Drinks
+",0.0,CASH

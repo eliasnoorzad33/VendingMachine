@@ -1,0 +1,31 @@
+[{
+  "username": "username",
+  "dateTime": "2022-11-25T12:30",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "anotherusername",
+  "dateTime": "2022-11-25T12:30",
+  "products": [
+    {
+      "code": 1005,
+      "amount": 12,
+      "price": 7.0,
+      "name": "Coke",
+      "category": "DRINKS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CASH",
+  "isCancelled": false
+}]

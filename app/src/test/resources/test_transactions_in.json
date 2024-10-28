@@ -1,0 +1,451 @@
+[{
+  "username": "username",
+  "dateTime": "2022-10-25T16:29:42.857840",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-25T16:30:38.977845",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-25T16:37:03.068841",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-25T16:44:36.890970",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-25T20:10:12.129910",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-25T20:46:30.182497",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-25T20:48:11.133376",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-25T20:48:11.588196",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T17:43:53.456616",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T17:49:29.812130",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T18:15:01.698918",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T18:18:32.327532",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T18:26:01.118333",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T18:27:59.751955",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T18:29:04.151648",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T18:45:49.282852",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T18:55:45.645216",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T19:12:07.995007",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T19:29:00.925940",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T19:30:49.617123",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T19:31:48.879647",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-27T19:32:31.209371",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-29T17:57:31.107222",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-29T18:00:07.508181",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-29T19:01:54.661584",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-29T19:10:32.416956",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-31T16:09:57.707532",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-31T16:10:19.445564",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-31T16:11:30.773908",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+},{
+  "username": "username",
+  "dateTime": "2022-10-31T16:13:41.517416",
+  "products": [
+    {
+      "code": 1002,
+      "amount": 2,
+      "price": 3.5,
+      "name": "Pringles",
+      "category": "CHIPS"
+    }
+  ],
+  "amountPaid": 0.0,
+  "payment": "CARD",
+  "isCancelled": false
+}]
