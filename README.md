@@ -38,4 +38,4 @@ gradle wrapper
 ./gradlew run
 ```
 ## Background
-the following project is a group project I completed as a part of an agile software development unit undertaken during my computer science degree. The project focused on agile software development practises (specifically scrum & test driven development). 
+The following project is a group project I completed as a part of an agile software development unit undertaken during my computer science degree. The project focused on agile software development practises (specifically scrum & test driven development). 
